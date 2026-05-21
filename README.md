@@ -68,9 +68,31 @@ Nesta etapa foram desenvolvidos projetos utilizando conceitos mais avançados da
 
 Projeto desenvolvido como conclusão dos estudos intermediários em Java.
 
+O sistema simula uma plataforma de visualização de vídeos, permitindo criar usuários, cadastrar vídeos e registrar visualizações e avaliações realizadas pelos espectadores.
+
+Durante o desenvolvimento foram praticados conceitos importantes de Programação Orientada a Objetos, como:
+
+- Classes e objetos
+- Encapsulamento
+- Herança
+- Polimorfismo
+- Relacionamento entre classes
+
+---
+
 ## 📌 SistemaBiblioteca
 
-Projeto pessoal desenvolvido para praticar conceitos de orientação a objetos e organização de sistemas.
+Projeto pessoal desenvolvido para praticar conceitos de orientação a objetos e organização de sistemas em Java.
+
+O sistema permite realizar operações básicas de gerenciamento de biblioteca, como:
+
+- Cadastro de livros
+- Consulta de livros
+- Empréstimo de livros
+- Controle de disponibilidade
+- Organização de informações dos usuários e livros
+
+O projeto foi criado com o objetivo de reforçar conceitos importantes da linguagem Java e da Programação Orientada a Objetos (POO).
 
 ---
 
@@ -86,4 +108,4 @@ Os projetos presentes neste repositório fazem parte da minha trajetória de apr
 
 ---
 
-Desenvolvido por Natália Rodrigues 💜
+Desenvolvido por Natália Rodrigues 💙
