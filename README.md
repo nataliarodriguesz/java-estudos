@@ -108,4 +108,4 @@ Os projetos presentes neste repositório fazem parte da minha trajetória de apr
 
 ---
 
-Desenvolvido por Natália Rodrigues 💙
+Desenvolvido por Natália Rodrigues 💜
